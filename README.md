@@ -5,3 +5,6 @@ An upgraded version of M-CLI, for use from the Menu bar! This is a quit and easy
 When will it release?
 
 Soon enough, I'm doing my best!
+
+
+(will be written in swift)
