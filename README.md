@@ -7,4 +7,8 @@ When will it release?
 Soon enough, I'm doing my best!
 
 
-(will be written in swift)
+(will be written in swift) 
+
+Wont be written in swift anymore,
+
+GODDAMN SHELL COMMANDS LIKE ANNOYING TRASH I JUST KEEP GETTING zsh:1: command not found: m AAMAAAA A HELP PLS HELP PLS SSSSS
