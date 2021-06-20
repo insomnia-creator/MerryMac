@@ -6,8 +6,9 @@ When will it release?
 
 Soon enough, I'm doing my best!
 
+This will support the application as a Tray Icon.
 
-(will be written in swift) 
+---
+# Notice:
+Some functions might not be included as they're just better off from the command line, upcoming updates might contradict this though, what I'm going to do right now is get a working build up!
 
-
-i give up bye
