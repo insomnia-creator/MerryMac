@@ -8,3 +8,6 @@ Soon enough, I'm doing my best!
 
 
 (will be written in swift) 
+
+
+i give up bye
